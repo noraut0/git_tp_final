@@ -41,7 +41,7 @@ Noms des étudiants :
 * Roche Antoine
 * Taillandier Aliaume
 
-Date du jour : 00/00/0000
+Date du jour : 08/01/2021
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
